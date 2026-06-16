@@ -1,0 +1,32 @@
+services:
+  api:
+    build: .
+    env_file:
+      - .env
+    environment:
+      DATABASE_URL: mysql+pymysql://event_user:event_password@mysql:3306/event_management
+    ports:
+      - "8000:8000"
+    depends_on:
+      - mysql
+      - redis
+
+  mysql:
+    image: mysql:8.4
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: event_management
+      MYSQL_USER: event_user
+      MYSQL_PASSWORD: event_password
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+
+  redis:
+    image: redis:7-alpine
+    ports:
+      - "6379:6379"
+
+volumes:
+  mysql_data:

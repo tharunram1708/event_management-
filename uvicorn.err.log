@@ -1,0 +1,622 @@
+INFO:     Will watch for changes in these directories: ['C:\\Users\\tharu\\PycharmProjects\\PythonProject12']
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [11796] using WatchFiles
+INFO:     Started server process [12608]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+2026-06-16 10:31:06,115 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:31:23,650 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:31:24,104 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:31:33,500 INFO [watchfiles.main] 4 changes detected
+2026-06-16 10:31:34,157 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:31:48,247 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:32:03,262 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:32:18,284 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:32:33,321 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:32:48,400 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:32:50,978 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:33:13,761 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:33:15,989 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:33:34,680 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:33:49,708 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:33:53,606 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:34:12,879 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:34:16,113 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:34:34,712 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:34:49,737 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:35:04,758 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:35:19,527 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:35:34,854 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:35:49,918 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:36:04,949 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:36:19,984 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:36:35,011 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:36:50,050 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:37:05,075 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:37:17,158 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:37:43,951 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:37:59,000 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:38:14,065 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:38:29,090 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:38:44,109 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:38:59,131 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:39:14,171 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:39:29,214 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:39:36,054 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:41:41,584 INFO [watchfiles.main] 1 change detected
+WARNING:  WatchFiles detected changes in 'app\schemas\auth.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [12608]
+2026-06-16 10:42:20,218 INFO [watchfiles.main] 2 changes detected
+WARNING:  WatchFiles detected changes in 'app\api\auth.py', 'tests\test_api.py'. Reloading...
+INFO:     Started server process [12280]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [12280]
+2026-06-16 10:42:24,347 INFO [watchfiles.main] 10 changes detected
+2026-06-16 10:42:24,711 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:42:25,734 INFO [watchfiles.main] 5 changes detected
+INFO:     Started server process [22388]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+2026-06-16 10:42:27,617 INFO [watchfiles.main] 2 changes detected
+2026-06-16 10:42:39,216 INFO [watchfiles.main] 1 change detected
+WARNING:  WatchFiles detected changes in 'tests\conftest.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [22388]
+2026-06-16 10:42:56,448 INFO [watchfiles.main] 10 changes detected
+INFO:     Started server process [17856]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+2026-06-16 10:43:10,940 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:43:22,359 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:43:34,090 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:44:17,000 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:44:32,032 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:44:47,048 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:44:54,603 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:46:13,017 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:47:27,123 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:47:42,143 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:47:57,165 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:48:12,199 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:48:27,225 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:48:42,271 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:48:44,241 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:49:18,865 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:49:41,536 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:49:42,200 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:51:00,782 INFO [watchfiles.main] 1 change detected
+WARNING:  WatchFiles detected changes in 'app\api\auth.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [17856]
+2026-06-16 10:52:21,488 INFO [watchfiles.main] 22 changes detected
+WARNING:  WatchFiles detected changes in 'tests\test_api.py', 'app\api\roles.py'. Reloading...
+INFO:     Started server process [18640]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [18640]
+INFO:     Started server process [15540]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+2026-06-16 10:52:35,741 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:52:50,761 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:52:58,045 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:53:32,091 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:53:47,125 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:54:02,140 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:54:17,172 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:54:32,197 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:54:47,220 INFO [watchfiles.main] 1 change detected
+C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\starlette\_exception_handler.py:59: StarletteDeprecationWarning: 'HTTP_422_UNPROCESSABLE_ENTITY' is deprecated. Use 'HTTP_422_UNPROCESSABLE_CONTENT' instead.
+  response = await handler(conn, exc)  # type: ignore[arg-type]
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\fastapi\routing.py", line 129, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\fastapi\routing.py", line 732, in app
+    raise validation_error
+fastapi.exceptions.RequestValidationError: 1 validation error:
+  {'type': 'value_error', 'loc': ('body',), 'msg': 'Value error, end_date must be after start_date', 'input': {'name': 'music', 'description': 'concert', 'start_date': '2026-06-16', 'end_date': '2026-06-16', 'venue': 'chennai', 'capacity': 50000, 'category_id': 1, 'organizer_id': 2}, 'ctx': {'error': ValueError('end_date must be after start_date')}}
+
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\app\api\events.py", line 48, in create_event
+    POST /events
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\uvicorn\protocols\http\httptools_impl.py", line 421, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        self.scope, self.receive, self.send
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\uvicorn\middleware\proxy_headers.py", line 62, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\fastapi\applications.py", line 1162, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\starlette\applications.py", line 90, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\starlette\middleware\errors.py", line 186, in __call__
+    raise exc
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\starlette\middleware\cors.py", line 96, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\starlette\middleware\cors.py", line 154, in simple_response
+    await self.app(scope, receive, send)
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\starlette\middleware\exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\fastapi\middleware\asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\starlette\routing.py", line 660, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\starlette\routing.py", line 680, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\fastapi\routing.py", line 1574, in handle
+    await self.original_router.handle(scope, receive, send)
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\fastapi\routing.py", line 2012, in handle
+    await included_router._handle_selected(scope, receive, send)
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\fastapi\routing.py", line 1594, in _handle_selected
+    await original_route.handle(scope, receive, send)
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\fastapi\routing.py", line 1183, in handle
+    await app(scope, receive, send)
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\fastapi\routing.py", line 143, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\starlette\_exception_handler.py", line 59, in wrapped_app
+    response = await handler(conn, exc)  # type: ignore[arg-type]
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\app\core\exceptions.py", line 36, in validation_error_handler
+    return JSONResponse(
+        status_code=status.HTTP_422_UNPROCESSABLE_ENTITY,
+        content={"detail": "Validation failed", "errors": exc.errors()},
+    )
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\starlette\responses.py", line 192, in __init__
+    super().__init__(content, status_code, headers, media_type, background)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\starlette\responses.py", line 45, in __init__
+    self.body = self.render(content)
+                ~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\starlette\responses.py", line 195, in render
+    return json.dumps(
+           ~~~~~~~~~~^
+        content,
+        ^^^^^^^^
+    ...<3 lines>...
+        separators=(",", ":"),
+        ^^^^^^^^^^^^^^^^^^^^^^
+    ).encode("utf-8")
+    ^
+  File "C:\Users\tharu\AppData\Local\Python\pythoncore-3.14-64\Lib\json\__init__.py", line 242, in dumps
+    **kw).encode(obj)
+          ~~~~~~^^^^^
+  File "C:\Users\tharu\AppData\Local\Python\pythoncore-3.14-64\Lib\json\encoder.py", line 202, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Users\tharu\AppData\Local\Python\pythoncore-3.14-64\Lib\json\encoder.py", line 263, in iterencode
+    return _iterencode(o, 0)
+  File "C:\Users\tharu\AppData\Local\Python\pythoncore-3.14-64\Lib\json\encoder.py", line 182, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+                    f'is not JSON serializable')
+TypeError: Object of type ValueError is not JSON serializable
+when serializing dict item 'error'
+when serializing dict item 'ctx'
+when serializing list item 0
+when serializing dict item 'errors'
+2026-06-16 10:55:02,269 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:55:17,310 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:55:32,297 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:55:33,661 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:56:10,107 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:56:10,459 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:56:32,492 INFO [watchfiles.main] 1 change detected
+WARNING:  WatchFiles detected changes in 'app\core\exceptions.py'. Reloading...
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\fastapi\routing.py", line 129, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\fastapi\routing.py", line 732, in app
+    raise validation_error
+fastapi.exceptions.RequestValidationError: 1 validation error:
+  {'type': 'value_error', 'loc': ('body',), 'msg': 'Value error, end_date must be after start_date', 'input': {'name': 'music', 'description': 'concert', 'start_date': '2026-06-16', 'end_date': '2026-06-16', 'venue': 'chennai', 'capacity': 50000, 'category_id': 1, 'organizer_id': 2}, 'ctx': {'error': ValueError('end_date must be after start_date')}}
+
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\app\api\events.py", line 48, in create_event
+    POST /events
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\uvicorn\protocols\http\httptools_impl.py", line 421, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        self.scope, self.receive, self.send
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\uvicorn\middleware\proxy_headers.py", line 62, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\fastapi\applications.py", line 1162, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\starlette\applications.py", line 90, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\starlette\middleware\errors.py", line 186, in __call__
+    raise exc
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\starlette\middleware\cors.py", line 88, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\starlette\middleware\exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\fastapi\middleware\asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\starlette\routing.py", line 660, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\starlette\routing.py", line 680, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\fastapi\routing.py", line 1574, in handle
+    await self.original_router.handle(scope, receive, send)
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\fastapi\routing.py", line 2012, in handle
+    await included_router._handle_selected(scope, receive, send)
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\fastapi\routing.py", line 1594, in _handle_selected
+    await original_route.handle(scope, receive, send)
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\fastapi\routing.py", line 1183, in handle
+    await app(scope, receive, send)
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\fastapi\routing.py", line 143, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\starlette\_exception_handler.py", line 59, in wrapped_app
+    response = await handler(conn, exc)  # type: ignore[arg-type]
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\app\core\exceptions.py", line 36, in validation_error_handler
+    async def validation_error_handler(_: Request, exc: RequestValidationError) -> JSONResponse:
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+            content=jsonable_encoder({"detail": "Validation failed", "errors": exc.errors()}),
+    
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\starlette\responses.py", line 192, in __init__
+    super().__init__(content, status_code, headers, media_type, background)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\starlette\responses.py", line 45, in __init__
+    self.body = self.render(content)
+                ~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\starlette\responses.py", line 195, in render
+    return json.dumps(
+           ~~~~~~~~~~^
+        content,
+        ^^^^^^^^
+    ...<3 lines>...
+        separators=(",", ":"),
+        ^^^^^^^^^^^^^^^^^^^^^^
+    ).encode("utf-8")
+    ^
+  File "C:\Users\tharu\AppData\Local\Python\pythoncore-3.14-64\Lib\json\__init__.py", line 242, in dumps
+    **kw).encode(obj)
+          ~~~~~~^^^^^
+  File "C:\Users\tharu\AppData\Local\Python\pythoncore-3.14-64\Lib\json\encoder.py", line 202, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Users\tharu\AppData\Local\Python\pythoncore-3.14-64\Lib\json\encoder.py", line 263, in iterencode
+    return _iterencode(o, 0)
+  File "C:\Users\tharu\AppData\Local\Python\pythoncore-3.14-64\Lib\json\encoder.py", line 182, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+                    f'is not JSON serializable')
+TypeError: Object of type ValueError is not JSON serializable
+when serializing dict item 'error'
+when serializing dict item 'ctx'
+when serializing list item 0
+when serializing dict item 'errors'
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [15540]
+2026-06-16 10:57:23,941 INFO [watchfiles.main] 15 changes detected
+WARNING:  WatchFiles detected changes in 'tests\test_api.py'. Reloading...
+INFO:     Started server process [3056]
+INFO:     Waiting for application startup.
+ERROR:    Traceback (most recent call last):
+  File "C:\Users\tharu\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\runners.py", line 127, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\tharu\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\base_events.py", line 719, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\uvicorn\server.py", line 79, in serve
+    await self._serve(sockets)
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\uvicorn\server.py", line 94, in _serve
+    await self.startup(sockets=sockets)
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\uvicorn\server.py", line 105, in startup
+    await self.lifespan.startup()
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\uvicorn\lifespan\on.py", line 56, in startup
+    await self.startup_event.wait()
+  File "C:\Users\tharu\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\locks.py", line 213, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\tharu\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\runners.py", line 204, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "C:\Users\tharu\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\runners.py", line 132, in run
+    raise KeyboardInterrupt()
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\starlette\routing.py", line 645, in lifespan
+    await receive()
+  File "C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\uvicorn\lifespan\on.py", line 137, in receive
+    return await self.receive_queue.get()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tharu\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\queues.py", line 186, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+INFO:     Started server process [5092]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+2026-06-16 10:57:32,664 INFO [watchfiles.main] 1 change detected
+2026-06-16 10:57:49,398 INFO [watchfiles.main] 1 change detected
+WARNING:  WatchFiles detected changes in 'app\core\exceptions.py'. Reloading...
+INFO:     Shutting down
+C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\starlette\_exception_handler.py:59: StarletteDeprecationWarning: 'HTTP_422_UNPROCESSABLE_ENTITY' is deprecated. Use 'HTTP_422_UNPROCESSABLE_CONTENT' instead.
+  response = await handler(conn, exc)  # type: ignore[arg-type]
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [5092]
+2026-06-16 10:58:21,255 INFO [watchfiles.main] 9 changes detected
+INFO:     Started server process [9648]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+2026-06-16 10:59:01,821 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:00:11,663 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:00:33,996 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:00:49,037 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:01:04,065 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:01:19,103 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:01:34,133 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:01:49,158 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:02:04,200 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:02:19,238 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:02:34,278 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:02:49,329 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:03:04,315 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:03:19,357 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:03:34,422 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:03:49,423 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:04:04,470 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:04:05,742 INFO [app.services.email] Email notification queued from no-reply@example.com to Participant@example.com for ticket EVT-D281CDE58482
+2026-06-16 11:04:19,490 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:04:34,537 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:04:49,538 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:05:03,978 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:05:27,976 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:05:49,628 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:06:04,671 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:06:19,684 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:06:34,696 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:06:49,751 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:07:04,792 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:07:19,819 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:07:34,266 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:08:03,983 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:08:19,004 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:08:33,997 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:08:49,084 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:09:04,102 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:09:19,122 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:09:34,153 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:09:49,197 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:10:04,223 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:10:19,302 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:10:34,305 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:10:49,343 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:11:04,381 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:11:19,415 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:11:34,452 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:11:49,447 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:12:04,496 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:12:19,533 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:12:34,531 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:12:49,556 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:13:04,617 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:13:19,655 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:13:34,700 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:13:49,721 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:14:04,753 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:14:19,761 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:14:34,785 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:14:38,731 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:15:08,826 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:15:23,873 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:15:38,865 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:15:53,917 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:16:08,919 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:16:12,447 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:16:31,174 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:16:46,223 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:17:01,235 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:17:16,278 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:17:31,277 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:17:46,324 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:18:01,331 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:18:16,355 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:18:31,432 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:18:46,428 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:19:01,479 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:19:16,519 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:19:31,523 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:19:46,547 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:20:01,605 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:20:16,636 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:20:31,627 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:20:46,662 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:21:01,700 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:21:16,739 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:21:31,785 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:21:46,787 INFO [watchfiles.main] 1 change detected
+C:\Users\tharu\PycharmProjects\PythonProject12\.venv\Lib\site-packages\starlette\_exception_handler.py:59: StarletteDeprecationWarning: 'HTTP_422_UNPROCESSABLE_ENTITY' is deprecated. Use 'HTTP_422_UNPROCESSABLE_CONTENT' instead.
+  response = await handler(conn, exc)  # type: ignore[arg-type]
+2026-06-16 11:22:01,829 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:22:16,840 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:22:31,897 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:22:46,899 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:22:51,141 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:23:37,695 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:23:52,757 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:24:07,781 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:24:22,782 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:24:37,844 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:24:38,812 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:24:48,784 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:25:06,954 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:25:21,960 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:25:37,044 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:25:52,050 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:26:07,063 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:26:22,130 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:26:37,161 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:26:52,179 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:27:07,199 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:27:22,263 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:27:37,275 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:27:52,312 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:28:07,345 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:28:22,359 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:28:37,394 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:28:52,412 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:29:07,453 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:29:22,513 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:29:37,549 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:29:52,559 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:30:07,576 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:30:22,614 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:30:37,659 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:30:52,681 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:31:07,708 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:31:22,767 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:31:37,761 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:31:52,812 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:32:07,816 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:32:22,852 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:32:37,896 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:32:52,939 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:33:07,914 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:33:22,954 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:33:37,999 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:33:53,044 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:34:08,083 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:34:23,083 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:34:38,133 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:34:53,150 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:35:08,153 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:35:23,210 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:35:38,250 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:35:53,254 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:36:08,300 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:36:23,307 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:36:38,358 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:36:53,369 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:37:08,376 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:37:23,417 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:37:38,447 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:37:53,483 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:38:08,509 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:38:23,566 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:38:38,612 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:38:53,654 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:39:08,652 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:39:23,652 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:39:38,690 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:39:53,731 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:40:08,771 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:40:23,805 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:40:38,844 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:40:53,828 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:41:08,894 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:41:23,872 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:41:38,916 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:41:53,978 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:42:08,973 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:42:24,017 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:42:37,280 INFO [app.services.email] Email notification queued from no-reply@example.com to tharun@example.com for ticket EVT-6C7B7EBE6445
+2026-06-16 11:42:39,043 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:42:54,042 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:43:09,118 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:43:24,123 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:43:39,172 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:43:54,211 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:44:09,248 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:44:24,242 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:44:39,288 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:44:54,299 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:45:09,349 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:45:24,347 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:45:39,385 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:45:54,460 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:46:09,466 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:46:24,505 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:46:39,511 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:46:54,556 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:46:58,899 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:47:31,448 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:47:48,299 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:48:02,860 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:48:17,741 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:48:33,599 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:48:49,249 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:48:51,935 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:48:53,608 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:49:11,266 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:49:26,324 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:49:41,324 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:49:56,431 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:50:11,412 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:50:26,479 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:50:41,493 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:50:56,542 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:51:11,573 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:51:26,565 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:51:41,609 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:51:56,620 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:52:11,693 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:52:26,708 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:52:41,758 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:52:56,774 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:53:11,812 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:53:26,834 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:53:41,794 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:53:56,879 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:54:11,889 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:54:26,950 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:54:41,848 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:54:57,036 INFO [watchfiles.main] 1 change detected
+2026-06-16 11:55:12,002 INFO [watchfiles.main] 1 change detected

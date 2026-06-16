@@ -1,0 +1,133 @@
+INFO:     127.0.0.1:64877 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59579 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59579 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54793 - "POST /auth/register HTTP/1.1" 201 Created
+INFO:     127.0.0.1:61873 - "POST /auth/register HTTP/1.1" 201 Created
+INFO:     127.0.0.1:55894 - "POST /auth/register HTTP/1.1" 201 Created
+INFO:     127.0.0.1:56869 - "GET /roles HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:56325 - "POST /auth/login HTTP/1.1" 403 Forbidden
+INFO:     127.0.0.1:52628 - "POST /auth/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52564 - "POST /auth/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51691 - "GET /auth/me HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62300 - "GET /roles HTTP/1.1" 403 Forbidden
+INFO:     127.0.0.1:58548 - "POST /roles/assign HTTP/1.1" 403 Forbidden
+   INFO:     127.0.0.1:49195 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60649 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60649 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62043 - "GET /roles HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:62657 - "POST /roles/assign HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:59383 - "POST /auth/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58959 - "POST /roles/assign HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:60528 - "POST /auth/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60528 - "POST /roles/assign HTTP/1.1" 403 Forbidden
+INFO:     127.0.0.1:52763 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55012 - "GET /roles HTTP/1.1" 200 OK
+ INFO:     127.0.0.1:55038 - "POST /roles/assign HTTP/1.1" 200 OK
+ INFO:     127.0.0.1:56725 - "POST /roles/assign HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56725 - "POST /roles/assign HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52903 - "GET /roles HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57674 - "POST /categories HTTP/1.1" 201 Created
+INFO:     127.0.0.1:58279 - "GET /categories HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61366 - "POST /events HTTP/1.1" 500 Internal Server Error
+ INFO:     127.0.0.1:52959 - "POST /events HTTP/1.1" 500 Internal Server Error
+  INFO:     127.0.0.1:52984 - "POST /events HTTP/1.1" 422 Unprocessable Content
+INFO:     127.0.0.1:60112 - "POST /events HTTP/1.1" 201 Created
+INFO:     127.0.0.1:63381 - "GET /events?search=music&category_id=1&limit=20&offset=0&sort_by=start_date&sort_order=asc HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55801 - "GET /events/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50408 - "POST /auth/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55322 - "POST /auth/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63303 - "POST /registrations HTTP/1.1" 201 Created
+INFO:     127.0.0.1:54479 - "GET /registrations?event_id=1 HTTP/1.1" 403 Forbidden
+INFO:     127.0.0.1:55965 - "GET /registrations/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59978 - "POST /tickets HTTP/1.1" 201 Created
+INFO:     127.0.0.1:58261 - "GET /tickets/EVT-D281CDE58482 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54005 - "POST /tickets/EVT-D281CDE58482/validate HTTP/1.1" 403 Forbidden
+INFO:     127.0.0.1:56993 - "POST /auth/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61422 - "POST /auth/login HTTP/1.1" 403 Forbidden
+INFO:     127.0.0.1:61422 - "POST /auth/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60597 - "POST /tickets/EVT-D281CDE58482/validate HTTP/1.1" 403 Forbidden
+INFO:     127.0.0.1:49674 - "POST /auth/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59802 - "POST /auth/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50944 - "POST /tickets/EVT-D281CDE58482/validate HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55929 - "POST /attendance HTTP/1.1" 201 Created
+INFO:     127.0.0.1:56587 - "GET /attendance/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57421 - "GET /attendance/1/summary HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51315 - "GET /dashboard/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49718 - "GET /dashboard/event-registration-counts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53535 - "GET /reports/events/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65499 - "GET /reports/registrations?event_id=1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59525 - "GET /reports/attendance/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50031 - "GET /audit-logs?limit=50&offset=0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56454 - "POST /roles/assign HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49287 - "POST /auth/register HTTP/1.1" 403 Forbidden
+INFO:     127.0.0.1:64874 - "POST /auth/register HTTP/1.1" 201 Created
+INFO:     127.0.0.1:50524 - "POST /auth/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49683 - "POST /auth/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55750 - "POST /roles/assign HTTP/1.1" 403 Forbidden
+INFO:     127.0.0.1:53364 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53364 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53713 - "POST /auth/register HTTP/1.1" 201 Created
+INFO:     127.0.0.1:65157 - "POST /auth/register HTTP/1.1" 201 Created
+INFO:     127.0.0.1:57045 - "POST /auth/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60227 - "POST /auth/refresh HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56752 - "GET /auth/me HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:64778 - "POST /auth/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64778 - "GET /auth/me HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49674 - "GET /roles HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49259 - "POST /categories HTTP/1.1" 201 Created
+INFO:     127.0.0.1:50712 - "PATCH /categories/2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63007 - "POST /events HTTP/1.1" 422 Unprocessable Content
+INFO:     127.0.0.1:62649 - "POST /events HTTP/1.1" 422 Unprocessable Content
+INFO:     127.0.0.1:51914 - "POST /events HTTP/1.1" 422 Unprocessable Content
+INFO:     127.0.0.1:56739 - "POST /events HTTP/1.1" 422 Unprocessable Content
+INFO:     127.0.0.1:50178 - "POST /events HTTP/1.1" 422 Unprocessable Content
+INFO:     127.0.0.1:58654 - "POST /events HTTP/1.1" 422 Unprocessable Content
+INFO:     127.0.0.1:59070 - "POST /events HTTP/1.1" 201 Created
+INFO:     127.0.0.1:52452 - "POST /events HTTP/1.1" 422 Unprocessable Content
+INFO:     127.0.0.1:62114 - "POST /events HTTP/1.1" 201 Created
+INFO:     127.0.0.1:50219 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50219 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61159 - "POST /auth/register HTTP/1.1" 201 Created
+INFO:     127.0.0.1:53201 - "POST /auth/register HTTP/1.1" 422 Unprocessable Content
+INFO:     127.0.0.1:56989 - "POST /auth/register HTTP/1.1" 422 Unprocessable Content
+INFO:     127.0.0.1:52918 - "POST /auth/register HTTP/1.1" 201 Created
+INFO:     127.0.0.1:49840 - "POST /auth/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59022 - "POST /auth/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60262 - "GET /auth/me HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58208 - "POST /categories HTTP/1.1" 201 Created
+INFO:     127.0.0.1:63937 - "GET /categories HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62048 - "POST /events HTTP/1.1" 201 Created
+INFO:     127.0.0.1:62289 - "GET /events?search=birthday&category_id=3&limit=20&offset=0&sort_by=start_date&sort_order=asc HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59165 - "GET /events/3 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61756 - "GET /events/4 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60819 - "POST /auth/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62944 - "POST /auth/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64399 - "POST /auth/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64879 - "POST /registrations HTTP/1.1" 201 Created
+INFO:     127.0.0.1:64509 - "GET /registrations?event_id=4 HTTP/1.1" 403 Forbidden
+INFO:     127.0.0.1:62214 - "GET /registrations/history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56527 - "POST /tickets HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56527 - "POST /tickets HTTP/1.1" 403 Forbidden
+INFO:     127.0.0.1:59337 - "POST /auth/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60750 - "POST /auth/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56842 - "GET /registrations?event_id=4 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63764 - "POST /tickets HTTP/1.1" 403 Forbidden
+INFO:     127.0.0.1:60400 - "POST /auth/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63303 - "POST /auth/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61005 - "POST /tickets HTTP/1.1" 201 Created
+INFO:     127.0.0.1:55023 - "POST /tickets HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:58952 - "POST /tickets HTTP/1.1" 201 Created
+INFO:     127.0.0.1:58886 - "GET /tickets/EVT-6C7B7EBE6445 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56981 - "POST /tickets/EVT-6C7B7EBE6445/validate HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61146 - "POST /attendance HTTP/1.1" 201 Created
+INFO:     127.0.0.1:53105 - "GET /attendance/3 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53105 - "GET /attendance/2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53105 - "GET /attendance/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51823 - "GET /attendance/1/summary HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60030 - "GET /dashboard/stats HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58471 - "GET /dashboard/event-registration-counts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55642 - "GET /reports/events/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60361 - "GET /reports/registrations?event_id=1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64277 - "GET /reports/attendance/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63223 - "GET /audit-logs?limit=50&offset=0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60829 - "GET /health HTTP/1.1" 200 OK
